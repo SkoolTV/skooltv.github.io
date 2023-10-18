@@ -1,6 +1,6 @@
 {
   "global": {
-    "name": "movie-web"
+    "name": "SkoolTV"
   },
   "search": {
     "loading_series": "We zoeken je favoriete series...",
@@ -114,8 +114,8 @@
   },
   "v3": {
     "newSiteTitle": "De nieuwe versie is uit!",
-    "newDomain": "https://movie-web.app",
-    "newDomainText": "We gaan binnenkort verhuizen naar een nieuw domein: <0>https://movie-web.app</0>. Pas je bladwijzers aan naar het nieuwe domein, want </b>het oude domein gaat stoppen met werken op {{date}}.</b>",
+    "newDomain": "https://tv.polarislearning.org",
+    "newDomainText": "We gaan binnenkort verhuizen naar een nieuw domein: <0>https://tv.polarislearning.org</0>. Pas je bladwijzers aan naar het nieuwe domein, want </b>het oude domein gaat stoppen met werken op {{date}}.</b>",
     "tireless": "We hebben mega hard gewerkt aan deze nieuwe versie, dus we hopen dat je er van gaat genieten.",
     "leaveAnnouncement": "Let's go!"
   },

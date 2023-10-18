@@ -1,6 +1,6 @@
 {
   "global": {
-    "name": "movie-web"
+    "name": "SkoolTV"
   },
   "search": {
     "loading_series": "Đang tìm chương trình yêu thích của bạn...",
@@ -114,8 +114,8 @@
   },
   "v3": {
     "newSiteTitle": "Phiên bản mới đã được phát hành!",
-    "newDomain": "https://movie-web.app",
-    "newDomainText": "movie-web sẽ sớm chuyển sang trang mới: <0>https://movie-web.app</0>. Hãy đảm bảo rằng các đánh dấu đã được cập nhật vì <1>trang web cũ sẽ dừng hoạt động vào {{date}}.</1>",
+    "newDomain": "https://tv.polarislearning.org",
+    "newDomainText": "SkoolTV sẽ sớm chuyển sang trang mới: <0>https://tv.polarislearning.org</0>. Hãy đảm bảo rằng các đánh dấu đã được cập nhật vì <1>trang web cũ sẽ dừng hoạt động vào {{date}}.</1>",
     "tireless": "Chúng tôi đã làm việc vất vả để tạo phiên bản mới này, chúng tôi hy vọng bạn sẽ thích những gì chúng tôi đã nung nấu trong những tháng qua.",
     "leaveAnnouncement": "Hãy đưa tôi đến đó!"
   },

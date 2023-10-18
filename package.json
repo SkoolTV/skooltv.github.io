@@ -1,8 +1,8 @@
 {
-  "name": "movie-web",
+  "name": "SkoolTV",
   "version": "3.2.1",
   "private": true,
-  "homepage": "https://movie-web.app",
+  "homepage": "https://skooltv.github.io",
   "dependencies": {
     "@formkit/auto-animate": "^1.0.0-beta.5",
     "@headlessui/react": "^1.5.0",
