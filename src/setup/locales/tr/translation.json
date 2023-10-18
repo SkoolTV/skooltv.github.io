@@ -1,6 +1,6 @@
 {
   "global": {
-    "name": "movie-web"
+    "name": "SkoolTV"
   },
   "search": {
     "loading_series": "Favori dizileriniz aranıyor...",
@@ -123,8 +123,8 @@
   },
   "v3": {
     "newSiteTitle": "Yeni sürüm yayınlandı!",
-    "newDomain": "https://movie-web.app",
-    "newDomainText": "movie-web yakında yeni bir alan adına taşınacak: <0>https://movie-web.app</0>. <1>{{date}} tarihinde eski site çalışmayacağı için</1> yerimlerinizi güncellemeyi unutmayın.",
+    "newDomain": "https://tv.polarislearning.org",
+    "newDomainText": "SkoolTV yakında yeni bir alan adına taşınacak: <0>https://tv.polarislearning.org</0>. <1>{{date}} tarihinde eski site çalışmayacağı için</1> yerimlerinizi güncellemeyi unutmayın.",
     "tireless": "Bu yeni güncelleme için gece gündüz çalıştık, umarız aylardan beri hazırladığımız bu güncellemeyi beğenirsiniz.",
     "leaveAnnouncement": "Götür beni!"
   },

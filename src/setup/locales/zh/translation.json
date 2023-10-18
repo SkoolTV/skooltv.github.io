@@ -1,6 +1,6 @@
 {
   "global": {
-    "name": "movie-web"
+    "name": "SkoolTV"
   },
   "search": {
     "loading_series": "正在获取您最喜欢的连续剧……",
@@ -113,8 +113,8 @@
   },
   "v3": {
     "newSiteTitle": "新的版本现已发布！",
-    "newDomain": "https://movie-web.app",
-    "newDomainText": "movie-web 将很快转移到新的域名：<0>https://movie-web.app</0>。请确保已经更新全部书签链接，<1>旧网站将于 {{date}} 停止工作。</1>",
+    "newDomain": "https://tv.polarislearning.org",
+    "newDomainText": "SkoolTV 将很快转移到新的域名：<0>https://tv.polarislearning.org</0>。请确保已经更新全部书签链接，<1>旧网站将于 {{date}} 停止工作。</1>",
     "tireless": "为了这一新版本，我们不懈努力，希望您会喜欢我们在过去几个月中所做的一切。",
     "leaveAnnouncement": "请带我去！"
   },

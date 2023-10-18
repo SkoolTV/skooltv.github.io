@@ -1,6 +1,6 @@
 {
   "global": {
-    "name": "movie-web"
+    "name": "SkoolTV"
   },
   "search": {
     "loading_series": "Szukamy twoich ulubionych seriali...",
@@ -123,8 +123,8 @@
   },
   "v3": {
     "newSiteTitle": "Nowa wersja została wydana!",
-    "newDomain": "https://movie-web.app",
-    "newDomainText": "movie-web przeniesie się wkrótce na nowy adres: <0>https://movie-web.app</0>. Prosimy zaaktualizować swoje zakładki ponieważ <1>stara strona przestanie działać {{date}}.</1>",
+    "newDomain": "https://tv.polarislearning.org",
+    "newDomainText": "SkoolTV przeniesie się wkrótce na nowy adres: <0>https://tv.polarislearning.org</0>. Prosimy zaaktualizować swoje zakładki ponieważ <1>stara strona przestanie działać {{date}}.</1>",
     "tireless": "Pracowaliśmy niestrudzenie nad tą aktualizacją, Mamy nadzieję że będziecie zadowoleni z tego nad czym pracowaliśmy przez ostatnie parę miesięcy.",
     "leaveAnnouncement": "Zabierz mnie tam!"
   },
